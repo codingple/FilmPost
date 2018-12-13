@@ -5,7 +5,7 @@
 This is a Post-it program on web browser. With a frame which is able to be moved by dragging, you can write some text or draw something. This "Post-it" can be added or removed, and saved or loaded from _**local storage**_ as well. Finally, this program loads and shows a URL, including image, textfile, pdf, to need for your memorizing.
 
 ### Usage
-* New_Post  
+#####* New_Post  
 "Drag" this button into the memo pad to create a new text memo
 
 * New_Casvas  
