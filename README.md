@@ -24,7 +24,7 @@ Click and type an URL to load
 
 * Post / Frame  
 If Click this button, whether you can click an hyperlink, select text, or locate other position of what you load...
-Don't care of it :) I've forgotten the reason I made this
+Don't care of it :) I've forgotten the reason I made this  
 
 
 ![Main](./main.png)
